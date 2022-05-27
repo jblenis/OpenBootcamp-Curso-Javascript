@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "Open_Bootcamp.js",
+    "start": "index.js",
     "test": "echo \"# OpenBootcamp-Curso-Javascript\" && exit 1"
   },
   "keywords": [
