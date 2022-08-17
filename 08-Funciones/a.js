@@ -14,9 +14,13 @@ function promesa() {
     return setTimeout(() => console.log("Hola soy una promesa"), 5000)
 }
 
-function idsPar() {
+
+function* idsPar(){
     let id = 0
-    while(true) {
-        yield id += 2
-    }
+
+    while(true){
+        id+=2
+
+        yield id
+}
 }
