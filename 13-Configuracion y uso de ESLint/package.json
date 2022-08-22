@@ -1,0 +1,24 @@
+{
+  "name": "openbootcamp-curso-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "scripts": {
+    "lint-fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jblenis/OpenBootcamp-Curso-Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jblenis/OpenBootcamp-Curso-Javascript/issues"
+  },
+  "homepage": "https://github.com/jblenis/OpenBootcamp-Curso-Javascript#readme",
+  "dependencies": {
+    "eslint": "^8.22.0"
+  }
+}
