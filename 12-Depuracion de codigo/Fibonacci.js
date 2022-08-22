@@ -7,10 +7,3 @@ function Fibonacci(num){
     }
     return arr
 }
-
-console.log(Fibonacci())
-
-
-
-
-
