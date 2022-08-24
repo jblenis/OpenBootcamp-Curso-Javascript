@@ -1,0 +1,9 @@
+{
+    "rpc.appName": "Visual Studio Code",
+    "rpc.removeDetails": true,
+    "rpc.removeElapsedTime": true,
+    "rpc.removeLowerDetails": false,
+    "rpc.removeLowerDetailsIdling": false,
+    "rpc.showProblems": true,
+    "rpc.suppressNotifications": true
+}
